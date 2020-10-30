@@ -1,4 +1,9 @@
 # closest-pair-of-points
+
+Generate a random pair of 100 values. Apply the closest pair algorithm to find the closest pair
+(distance). A C++ or python from scratch implementation with neat documentation is expected.
+
+
 1) We sort all points according to x coordinates.
 
 2) Divide all points in two halves.
